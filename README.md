@@ -1,4 +1,3 @@
-# leaf-disease-identification
 <h1 align = "center">Leaf Disease Identification</h1>
 
 <p align="center">
